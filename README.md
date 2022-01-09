@@ -25,10 +25,6 @@ Tasks: 75 total
 
 ______________________________________________________________________
 
-
-
-See: https://www.cs.usfca.edu/~mmalensek/cs326/assignments/project-1.html 
-
 To compile and run:
 
 ```bash
